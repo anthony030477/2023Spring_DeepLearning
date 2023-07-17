@@ -14,6 +14,6 @@ Image generation
 - Diffusion model
 ### 2.2
 Semantic analysis
-- Transformer from stratch
+- Transformer from scratch
 ### bonus
 - Soft prompt
